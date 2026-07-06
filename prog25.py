@@ -14,3 +14,4 @@ match opção:
         cal=0
         print(f"inválido")       
 print(f"Resultado: {cal}")
+print("teste de commit")
