@@ -15,3 +15,4 @@ match opção:
         print(f"inválido")       
 print(f"Resultado: {cal}")
 print("teste de commit")
+print("teste de push pelo vscode")
