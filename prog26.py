@@ -4,4 +4,4 @@ if n1>n2:
     print(f"o valor: {n1} é maior que {n2} ")
 else:
     print(f"o valor: {n2} é maior que {n1} ")
-print("Teste de pool")
+print("Teste de pull")
